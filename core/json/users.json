@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Nanna",
+                "last": "Holand"
+            },
+            "location": {
+                "street": {
+                    "number": 3188,
+                    "name": "Kirsten Flagstads plass"
+                },
+                "city": "Miland",
+                "state": "Sør-Trøndelag",
+                "country": "Norway",
+                "postcode": "1444",
+                "coordinates": {
+                    "latitude": "45.4021",
+                    "longitude": "159.8551"
+                },
+                "timezone": {
+                    "offset": "+6:00",
+                    "description": "Almaty, Dhaka, Colombo"
+                }
+            },
+            "email": "nanna.holand@example.com",
+            "login": {
+                "uuid": "b5dc578c-8abe-4cf1-ba3e-580bd67696c7",
+                "username": "whitefrog577",
+                "password": "chui",
+                "salt": "PQ3W8hTO",
+                "md5": "4df4b7f1b0ec059d78e5e49acbe4a35a",
+                "sha1": "1dea2d4623843e065fc3a31173d376af5216257a",
+                "sha256": "ef124b2804fcf4a1bd755e10bab6858dea442260e01e15e7819991af9d437368"
+            },
+            "dob": {
+                "date": "1947-03-18T01:43:17.903Z",
+                "age": 76
+            },
+            "registered": {
+                "date": "2017-03-23T00:04:24.952Z",
+                "age": 6
+            },
+            "phone": "54453745",
+            "cell": "41605702",
+            "id": {
+                "name": "FN",
+                "value": "18034714815"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/82.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/82.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/82.jpg"
+            },
+            "nat": "NO"
+        }
+    ],
+    "info": {
+        "seed": "3a2ea6040d614d9c",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
